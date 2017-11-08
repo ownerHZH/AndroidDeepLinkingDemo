@@ -1,0 +1,7 @@
+#Mon Nov 06 10:45:12 CST 2017
+base.0=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6f1836348d1a7ff7ad516cdf523daa1695df6775
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ab8fab95b2d45eb9018c41cf4ead65b353b7c03c/classes.dex
+base.1=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ab8fab95b2d45eb9018c41cf4ead65b353b7c03c
+file.0=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6f1836348d1a7ff7ad516cdf523daa1695df6775/classes.dex

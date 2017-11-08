@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jerry.hu/.android/build-cache/81035b797f3c131ee1d7a939ba5b675cbc3d030c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/pre-dexed/debug/classes_f1cfd216fe14bff760084f464ee0b4b96d514ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jerry.hu/.android/build-cache/be71d92b8411b4c77ced0ef84cd3bd7d46a30741/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/pre-dexed/debug/classes_b41beca71fd9a78e50ee1a0ec474240872897e2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jerry.hu/.android/build-cache/81035b797f3c131ee1d7a939ba5b675cbc3d030c/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_f16e802608ef0c7c450d72d9d80cbf6d0a976e14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d3901a83b28c1340f8c2ca385d5a15692542d9b5">
+        <dex dex="/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ab8fab95b2d45eb9018c41cf4ead65b353b7c03c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6f1836348d1a7ff7ad516cdf523daa1695df6775/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/pre-dexed/debug/classes_73fd60e96c605487c96d52bc9a068d7d07871e7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jerry.hu/Documents/Tools/Android SDK/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_fd44b9325bfebbe20b6073662c60dbeddfd38700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jerry.hu/.android/build-cache/4b12430dd3d1f2ac6d126d74b2fa7d03d8066cd4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/pre-dexed/debug/classes_0bc1e275daa2f95392a77c85d000de0df920fab0.jar" />
+    </item>
+
+</items>

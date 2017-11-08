@@ -1,0 +1,25 @@
+#Mon Nov 06 10:45:11 CST 2017
+renamed.7=classes8.dex
+renamed.6=classes3.dex
+renamed.5=classes.dex
+renamed.4=classes2.dex
+renamed.3=classes6.dex
+renamed.2=classes7.dex
+renamed.1=classes5.dex
+renamed.0=classes4.dex
+base.7=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_fd44b9325bfebbe20b6073662c60dbeddfd38700
+base.6=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a845da4f97a3deec6a7a77f8828b896bc8072e46
+base.5=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bc1e275daa2f95392a77c85d000de0df920fab0
+base.4=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73fd60e96c605487c96d52bc9a068d7d07871e7c
+base.3=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_022a414fdcd3c3a7633ef145d4bcd5249227c2f9
+base.2=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_f16e802608ef0c7c450d72d9d80cbf6d0a976e14
+base.1=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1cfd216fe14bff760084f464ee0b4b96d514ba1
+base.0=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b41beca71fd9a78e50ee1a0ec474240872897e2c
+file.7=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_fd44b9325bfebbe20b6073662c60dbeddfd38700/classes.dex
+file.6=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a845da4f97a3deec6a7a77f8828b896bc8072e46/classes.dex
+file.5=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bc1e275daa2f95392a77c85d000de0df920fab0/classes.dex
+file.4=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73fd60e96c605487c96d52bc9a068d7d07871e7c/classes.dex
+file.3=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_022a414fdcd3c3a7633ef145d4bcd5249227c2f9/classes.dex
+file.2=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_f16e802608ef0c7c450d72d9d80cbf6d0a976e14/classes.dex
+file.1=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1cfd216fe14bff760084f464ee0b4b96d514ba1/classes.dex
+file.0=/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b41beca71fd9a78e50ee1a0ec474240872897e2c/classes.dex

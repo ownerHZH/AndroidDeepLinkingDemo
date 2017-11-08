@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/anim/abc_slide_out_top.xml"
+    }
+]

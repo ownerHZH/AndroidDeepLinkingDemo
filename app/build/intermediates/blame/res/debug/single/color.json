@@ -4,12 +4,36 @@
         "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/AndroidDeepLinkingDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/AndroidDeepLinkingDemo/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_search_url_text.xml"
+    },
+    {
         "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
         "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/switch_thumb_material_dark.xml"
     },
     {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/AndroidDeepLinkingDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
         "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
         "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/AndroidDeepLinkingDemo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/AndroidDeepLinkingDemo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/AndroidDeepLinkingDemo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/switch_thumb_material_dark.xml"
     },
     {
         "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
@@ -24,7 +48,15 @@
         "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_search_url_text.xml"
     },
     {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/AndroidDeepLinkingDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
         "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/AndroidDeepLinkingDemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
         "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
@@ -33,6 +65,10 @@
     },
     {
         "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/jerry.hu/Downloads/DeepLinking-master/AndroidDeepLinkingDemo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
         "source": "/Users/jerry.hu/.android/build-cache/e4f897d83921b11fc8ec178b536579b10c82d789/output/res/color/abc_secondary_text_material_light.xml"
     }
 ]
